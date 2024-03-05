@@ -9,7 +9,7 @@ public class Main {
 		int b=inp.nextInt();
 		int c=a+b;
 		System.out.println("Addition of a and b is "+c);
-
+        System.out.println("running...");
 	}
 
 }
